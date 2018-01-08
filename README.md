@@ -2,6 +2,6 @@
 
 **This repository contains the code what i test azure features.**
 
-'Hello world'
+`Hello world`
 
 
