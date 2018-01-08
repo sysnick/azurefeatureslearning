@@ -1,3 +1,7 @@
 # azurefeatureslearning
 
-This repository contains the code what i test azure features.
+**This repository contains the code what i test azure features.**
+
+'Hello world'
+
+
